@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Anish%20Pokharel&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20%7C%20Code%20Dreamer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://github.com/codewithsauravphuyal">
+<a href="https://github.com/Anish-Karkee">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Building+the+Web%2C+One+Line+at+a+Time+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Consistency+%2B+Curiosity+%3D+Greatness+%E2%9C%A8;Open+to+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
 </a>
 
@@ -13,9 +13,9 @@
 
 <!-- Badges Row -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=codewithsauravphuyal&label=Profile+Views&color=a855f7&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Anish-Karkee&label=Profile+Views&color=a855f7&style=flat-square" alt="profile views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/codewithsauravphuyal?label=Followers&style=flat-square&color=a855f7" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/Anish-Karkee?label=Followers&style=flat-square&color=a855f7" alt="followers"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat-square" alt="open to work"/>
   &nbsp;
@@ -107,10 +107,10 @@ const anish: Developer = {
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=codewithsauravphuyal&theme=radical&hide_border=false&border_radius=10&mode=daily" height="200"/>
+      <img src="https://streak-stats.demolab.com?user=Anish-Karkee&theme=radical&hide_border=false&border_radius=10&mode=daily" height="200"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=codewithsauravphuyal&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
+      <img src="https://github-readme-stats.shion.dev/api?username=Anish-Karkee&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
     </td>
   </tr>
 </table>
@@ -120,14 +120,14 @@ const anish: Developer = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithsauravphuyal&bg_color=0d1117&color=a855f7&line=e040fb&point=ffffff&area=true&hide_border=false" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish-Karkee&bg_color=0d1117&color=a855f7&line=e040fb&point=ffffff&area=true&hide_border=false" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
 
 ## 🐍 Contribution Platane Snake
 
-![snake gif](https://github.com/codewithsauravphuyal/codewithsauravphuyal/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Anish-Karkee/anish-karkee/output/github-snake-dark.svg)
  
 ---
 
