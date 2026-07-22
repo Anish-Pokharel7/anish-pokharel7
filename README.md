@@ -34,9 +34,9 @@ const anish: Developer = {
   role:        "Full Stack Web Developer",
   location:    "Dharan-16 Leknath Chowck, Sunsari, Nepal Np",
   email:       "pokharelanish512@gmail.com",
-  languages:   ["JavaScript", "TypeScript", "PHP"],
+  languages:   ["JavaScript", "TypeScript"],
   frameworks:  ["React", "Next.js", "Node.js", "Express"],
-  databases:   ["MongoDB", "MySQL"],
+  databases:   ["MongoDB"],
   cloud:       ["AWS", "Cloudflare", "Vercel"],
   philosophy:  "Clean code. Real solutions. Endless curiosity.",
   currentGoal: "Build impactful products & land a top dev role",
@@ -78,7 +78,6 @@ const anish: Developer = {
 
 ### 🗄️ Databases & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
