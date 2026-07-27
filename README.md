@@ -23,7 +23,11 @@
 </p>
 
 </div>
-- 🕸️ You can visit my website to know more: [anishpokharel7.com.np](https://www.anishpokharel7.com.np/)
+<p align="center">
+  <a href="https://www.anishpokharel7.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/Website-anishpokharel7.com.np-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
 ---
 
 ## 🧑‍💻 About Me
