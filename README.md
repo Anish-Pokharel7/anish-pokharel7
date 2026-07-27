@@ -45,8 +45,8 @@ const anish: Developer = {
 ```
 
 - 🔭 Currently building **production-grade full-stack applications**
-- 🌱 Deep diving into **TypeScript, Prisma & Cloud Architecture**
-- 💬 Ask me about **React, Next.js, Node.js, REST APIs, PHP**
+- 🌱 Deep diving into **TypeScript, JavaScript & learning Python**
+- 💬 Ask me about **React, Next.js, Node.js, REST APIs**
 - 🎯 2026 Goal: **Launch a SaaS product & contribute to Open Source**
 - 🕐 Coding since age **22** — driven by passion, not just profession
 - ⚡ I turn ideas into running apps faster than most people make coffee
