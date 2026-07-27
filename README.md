@@ -54,7 +54,7 @@ const anish: Developer = {
 - 🎯 2026 Goal: **Launch a SaaS product & contribute to Open Source**
 - 🕐 Coding since age **22** — driven by passion, not just profession
 - ⚡ I turn ideas into running apps faster than most people make coffee
-
+- 🕸️ You can visit my site to know more: [anishpokharel7.com.np](https://www.anishpokharel7.com.np/)
 ---
 
 ## 💻 Tech Arsenal
