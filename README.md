@@ -37,7 +37,7 @@ const anish: Developer = {
   languages:   ["JavaScript", "TypeScript"],
   frameworks:  ["React", "Next.js", "Node.js", "Express"],
   databases:   ["MongoDB"],
-  cloud:       ["AWS", "Cloudflare", "Vercel"],
+  cloud:       ["Cloudflare", "Vercel"],
   philosophy:  "Clean code. Real solutions. Endless curiosity.",
   currentGoal: "Build impactful products & land a top dev role",
   funFact:     "I debug with coffee ☕ and stubbornness 💪",
@@ -48,9 +48,9 @@ const anish: Developer = {
 - 🌱 Deep diving into **TypeScript, Prisma & Cloud Architecture**
 - 💬 Ask me about **React, Next.js, Node.js, REST APIs, PHP**
 - 🎯 2026 Goal: **Launch a SaaS product & contribute to Open Source**
-- 🕐 Coding since age **17** — driven by passion, not just profession
+- 🕐 Coding since age **22** — driven by passion, not just profession
 - ⚡ I turn ideas into running apps faster than most people make coffee
-
+YOu can visit my website to know more ![anishpokharel7.com.np](https://www.anishpokharel7.com.np/)
 ---
 
 ## 💻 Tech Arsenal
