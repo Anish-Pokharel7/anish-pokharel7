@@ -106,21 +106,16 @@ const anish: Developer = {
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=Anish-Pokharel7&theme=radical&hide_border=false&border_radius=10&mode=daily&date_format=j%20M%5B%20Y%5D" height="200" alt="GitHub Streak Stats"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Anish-Pokharel7&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="200" alt="GitHub Stats"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Pokharel7&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<!-- Streak Stats — reliable external service -->
+<img src="https://streak-stats.demolab.com/?user=Anish-Pokharel7&theme=radical&hide_border=false&border_radius=10&mode=daily&date_format=j%20M%5B%20Y%5D" width="49%" alt="GitHub Streak Stats"/>
+
+<!-- General Stats — self-hosted SVG generated daily by metrics workflow -->
+<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.general.svg" width="49%" alt="GitHub Stats"/>
+
+</div>
+
 
 ---
 
