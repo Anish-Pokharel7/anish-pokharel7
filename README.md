@@ -108,11 +108,11 @@ const anish: Developer = {
 
 <div align="center">
 
-<!-- Streak Stats — reliable external service -->
-<img src="https://streak-stats.demolab.com/?user=Anish-Pokharel7&theme=radical&hide_border=false&border_radius=10&mode=daily&date_format=j%20M%5B%20Y%5D" width="49%" alt="GitHub Streak Stats"/>
+<!-- Streak / Habits Card — self-hosted SVG, auto-updated twice daily by metrics workflow -->
+<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.streak.svg" width="49%" alt="GitHub Habits & Streak"/>
 
-<!-- General Stats — self-hosted SVG generated daily by metrics workflow -->
-<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.general.svg" width="49%" alt="GitHub Stats"/>
+<!-- General Stats — self-hosted SVG, auto-updated twice daily by metrics workflow -->
+<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.general.svg" width="49%" alt="GitHub General Stats"/>
 
 </div>
 
@@ -123,6 +123,15 @@ const anish: Developer = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish-Pokharel7&bg_color=0d1117&color=a855f7&line=e040fb&point=ffffff&area=true&hide_border=false" width="100%" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <!-- Auto-tracked achievement badges — updated twice daily by metrics workflow -->
+  <img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.achievements.svg" width="100%" alt="GitHub Achievements"/>
 </div>
 
 ---
