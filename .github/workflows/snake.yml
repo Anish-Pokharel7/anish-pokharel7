@@ -4,11 +4,15 @@ permissions:
   contents: write
 
 on:
-  # Run daily at midnight UTC so snake updates every day
+  # Run twice daily (midnight & noon UTC) to keep daily contribution snake fresh
   schedule:
-    - cron: "0 0 * * *"
-  # Allow manual triggering
+    - cron: "0 0,12 * * *"
+  # Allow manual trigger from the Actions tab
   workflow_dispatch:
+  # Refresh immediately on any push to main branch so daily commits are tracked instantly
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
@@ -30,7 +34,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -43,4 +46,4 @@ jobs:
           keep_files: true
           user_name: github-actions[bot]
           user_email: 41898282+github-actions[bot]@users.noreply.github.com
-          commit_message: "chore: update snake animation [skip ci]"
+          commit_message: "chore: update daily contribution snake animation [skip ci]"

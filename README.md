@@ -108,8 +108,8 @@ const anish: Developer = {
 
 <div align="center">
 
-<!-- Streak / Habits Card — self-hosted SVG, auto-updated twice daily by metrics workflow -->
-<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.streak.svg" width="49%" alt="GitHub Habits & Streak"/>
+<!-- Coding Habits & Activity Card — self-hosted SVG, auto-updated twice daily by metrics workflow -->
+<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.habits.svg" width="49%" alt="GitHub Habits & Activity"/>
 
 <!-- General Stats — self-hosted SVG, auto-updated twice daily by metrics workflow -->
 <img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.general.svg" width="49%" alt="GitHub General Stats"/>
@@ -136,9 +136,15 @@ const anish: Developer = {
 
 ---
 
-## 🐍 Contribution Platane Snake
+## 🐍 Daily Contribution Snake Game
 
-![snake gif](https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/output/github-snake-dark.svg)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/output/github-snake.svg" />
+    <img alt="Daily Contribution Snake Animation" src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
  
 ---
 
