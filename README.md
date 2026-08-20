@@ -107,12 +107,8 @@ const anish: Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- Coding Habits & Activity Card — self-hosted SVG, auto-updated twice daily by metrics workflow -->
-<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.habits.svg" width="49%" alt="GitHub Habits & Activity"/>
-
 <!-- General Stats — self-hosted SVG, auto-updated twice daily by metrics workflow -->
-<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.general.svg" width="49%" alt="GitHub General Stats"/>
+<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.general.svg" width="100%" alt="GitHub General Stats"/>
 
 </div>
 
