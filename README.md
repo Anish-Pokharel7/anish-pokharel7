@@ -132,14 +132,6 @@ Exploring better development workflows, architecture, performance and emerging t
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.streak.svg" height="250"/>
-
-</div>
-
 ---
 
 # 🐍 My Contributions
