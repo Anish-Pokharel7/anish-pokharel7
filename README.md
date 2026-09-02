@@ -104,28 +104,6 @@ const anish: Developer = {
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Anish-Pokharel7&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" width="100%" alt="GitHub General Stats"/>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anish-Pokharel7&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/a855f7/Anish-Pokharel7" width="100%" alt="Contribution Graph"/>
-</div>
-
----
-
 ## 🐍 Daily Contribution Snake Game
 
 <div align="center">
@@ -154,14 +132,7 @@ const anish: Developer = {
 ```
 
 ---
-## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Anish-Pokharel7" width="100%" alt="GitHub Achievements"/>
-</div>
-
----
-## ✍️ Dev Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
