@@ -132,7 +132,7 @@ Exploring better development workflows, architecture, performance and emerging t
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.general.svg" height="1350" width="650"/>
+<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.general.svg" height="1350" width="1350"/>
 
 </div>
 
