@@ -138,7 +138,7 @@ Exploring better development workflows, architecture, performance and emerging t
 
 ---
 
-# 🐍 My Contributions
+# 🐍 My Contributions'
 
 <div align="center">
 
