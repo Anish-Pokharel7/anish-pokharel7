@@ -22,7 +22,7 @@ for index, png in enumerate(png_files):
 svg_lines.append('</svg>')
 svg_content = '\n'.join(svg_lines)
 
-for filename in ['metrics.achivements.svg', 'metrics.achievements.svg']:
+for filename in ['metrics.achievements.svg']:
     output = root / filename
     output.write_text(svg_content, encoding='utf-8')
     print(f'Created: {output}')

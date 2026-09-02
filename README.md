@@ -27,7 +27,7 @@
 ```ts
 const anish = {
     name: "Anish Pokharel",
-    role: "Full-Stack Developer",
+    role: "MERN-Stack Developer",
     focus: [
         "Web Development",
         "Modern UI/UX",
@@ -127,121 +127,11 @@ Exploring better development workflows, architecture, performance and emerging t
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🏋️ Crossthenics Fitness
-
-A modern fitness website redesigned with a glassmorphism-focused interface.
-
-**Stack:**
-`Next.js` · `TypeScript` · `Tailwind CSS`
-
-<a href="https://github.com/Anish-Pokharel7/crossthenics-Fitness">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🎯 Skill Hunt
-
-A system designed around businesses, consumers and administrative management.
-
-**Stack:**
-`TypeScript` · `Next.js` · `API Integration`
-
-<a href="https://github.com/Anish-Pokharel7/skill-hunt">
-View Repository →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 💼 Permanent Portfolio
-
-My personal portfolio project focused on presenting my work, skills and development journey.
-
-**Stack:**
-`Next.js` · `TypeScript`
-
-<a href="https://github.com/Anish-Pokharel7/pernament-cv">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🍽️ Monk & Punk Chyafe
-
-A modern website project created for Monk and Punk Chyafe.
-
-**Stack:**
-`TypeScript` · `Vite` · `Supabase`
-
-<a href="https://github.com/Anish-Pokharel7/M-P">
-View Repository →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🏍️ Young Enfielders
-
-A JavaScript-based web project built around the Young Enfielders concept.
-
-**Stack:**
-`JavaScript`
-
-<a href="https://github.com/Anish-Pokharel7/Young-Enfielders">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🔗 Y.E API
-
-An API-focused project created to support the Young Enfielders ecosystem.
-
-**Stack:**
-`JavaScript` · `API`
-
-<a href="https://github.com/Anish-Pokharel7/Y.E-API">
-View Repository →
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anish-Pokharel7&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Pokharel7&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="180"/>
+<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.general.svg" height="180"/>
 
 </div>
 
@@ -249,17 +139,17 @@ View Repository →
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Anish-Pokharel7&theme=github-dark-blue&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.streak.svg" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anish-Pokharel7&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.achievements.svg" />
 
 </div>
 
@@ -269,7 +159,7 @@ View Repository →
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish-Pokharel7&theme=github-compact&hide_border=true&area=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.habits.svg" width="100%"/>
 
 </div>
 
