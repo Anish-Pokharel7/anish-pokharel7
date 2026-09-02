@@ -17,29 +17,25 @@
 <a href="https://github.com/Anish-Pokharel7?tab=stars">
 <img src="https://img.shields.io/github/stars/Anish-Pokharel7?style=for-the-badge&logo=github&logoColor=white&color=yellow" />
 </a>
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Anish-Pokharel7&label=Profile%20Views&color=58A6FF&style=flat" />
-
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
 ```ts
-const anish = {
-    name: "Anish Pokharel",
-    role: "MERN-Stack Developer",
-    focus: [
-        "Web Development",
-        "Modern UI/UX",
-        "API Integration",
-        "Full-Stack Applications"
-    ],
-    currentlyBuilding: [
-        "Production-ready web applications",
-        "Modern Next.js interfaces",
-        "API-driven systems"
-    ],
+const anish = {name: "Anish Pokharel",
+               role: "MERN-Stack Developer",
+    focus: ["Web Development",
+            "Modern UI/UX",
+            "API Integration",
+            "Full-Stack Applications"],
+    currentlyBuilding: ["Production-ready web applications",
+                        "Modern Next.js interfaces",
+                        "API-driven systems"],
     philosophy: "Code. Debug. Improve. Repeat. 🔥"
 };
 ```
