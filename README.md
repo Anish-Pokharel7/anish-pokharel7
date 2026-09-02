@@ -1,159 +1,384 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Anish%20Pokharel&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20%7C%20Code%20Dreamer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+# 👋 Hey, I'm Anish Pokharel
 
-<!-- Typing Animation -->
+### `Full-Stack Developer` · `Next.js Developer` · `Tech Enthusiast`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+clean+%26+modern+web+experiences;Turning+ideas+into+real+products;Learning.+Building.+Improving.;Code.+Debug.+Improve.+Repeat.%F0%9F%94%A5" alt="Typing SVG" />
+
+<br/>
+
 <a href="https://github.com/Anish-Pokharel7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Building+the+Web%2C+One+Line+at+a+Time+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Consistency+%2B+Curiosity+%3D+Greatness+%E2%9C%A8;Open+to+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://img.shields.io/github/followers/Anish-Pokharel7?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" />
+</a>
+<a href="https://github.com/Anish-Pokharel7?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-10-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Anish-Pokharel7?tab=stars">
+<img src="https://img.shields.io/github/stars/Anish-Pokharel7?style=for-the-badge&logo=github&logoColor=white&color=yellow" />
 </a>
 
-<br/>
-<br/>
-
-<!-- Badges Row -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Anish-Pokharel7&label=Profile+Views&color=a855f7&style=flat-square" alt="profile views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Anish-Pokharel7?label=Followers&style=flat-square&color=a855f7" alt="followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat-square" alt="open to work"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Based%20In-Nepal%20%F0%9F%87%B3%F0%9F%87%B5-blue?style=flat-square" alt="location"/>
-</p>
-
 </div>
-<p align="center">
-  <a href="https://www.anishpokharel7.com.np" target="_blank">
-    <img src="https://img.shields.io/badge/Website-anishpokharel7.com.np-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-</p>
+
 ---
 
 ## 🧑‍💻 About Me
 
 ```ts
-const anish: Developer = {
-  name:        "Anish Pokharel",
-  role:        "Full Stack Web Developer",
-  location:    "Dharan-16 Leknath Chowck, Sunsari, Nepal Np",
-  email:       "pokharelanish512@gmail.com",
-  languages:   ["JavaScript", "TypeScript"],
-  frameworks:  ["React", "Next.js", "Node.js", "Express"],
-  databases:   ["MongoDB"],
-  cloud:       ["Cloudflare", "Vercel"],
-  philosophy:  "Clean code. Real solutions. Endless curiosity.",
-  currentGoal: "Build impactful products & land a top dev role",
-  funFact:     "I debug with coffee ☕ and stubbornness 💪",
+const anish = {
+    name: "Anish Pokharel",
+    role: "Full-Stack Developer",
+    focus: [
+        "Web Development",
+        "Modern UI/UX",
+        "API Integration",
+        "Full-Stack Applications"
+    ],
+    currentlyBuilding: [
+        "Production-ready web applications",
+        "Modern Next.js interfaces",
+        "API-driven systems"
+    ],
+    philosophy: "Code. Debug. Improve. Repeat. 🔥"
 };
 ```
 
-- 🔭 Currently building **production-grade full-stack applications**
-- 🌱 Deep diving into **TypeScript, JavaScript & learning Python**
-- 💬 Ask me about **React, Next.js, Node.js, REST APIs**
-- 🎯 2026 Goal: **Launch a SaaS product & contribute to Open Source**
-- 🕐 Coding since age **22** — driven by passion, not just profession
-- ⚡ I turn ideas into running apps faster than most people make coffee
-- 🕸️ You can visit my site to know more: [anishpokharel7.com.np](https://www.anishpokharel7.com.np/)
----
+I'm a developer who enjoys turning ideas into **clean, functional and modern digital experiences**.
 
-## 💻 Tech Arsenal
+I spend most of my time building web applications, experimenting with modern frontend technologies, connecting APIs, improving UI/UX, and learning how different parts of a software system work together.
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-### ⚙️ Backend & Runtime
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-
-### 🗄️ Databases & ORM
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-### 🛠️ Tools & Design
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+I believe good software isn't only about writing code — it's about creating something that is **useful, maintainable and enjoyable to use.**
 
 ---
 
-## 🐍 Daily Contribution Snake Game
+## ⚡ What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+
+Building modern and responsive interfaces using **Next.js, React, TypeScript and Tailwind CSS**.
+
+</td>
+
+<td width="50%">
+
+### 🔌 API & Backend Integration
+
+Connecting frontend applications with APIs, databases and backend services to create complete systems.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎨 UI / UX
+
+Creating interfaces that are clean, responsive, accessible and visually engaging.
+
+</td>
+
+<td width="50%">
+
+### 🧠 Continuous Learning
+
+Exploring better development workflows, architecture, performance and emerging technologies.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,html,css" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite" />
+</p>
+
+### 🔧 Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,supabase" />
+</p>
+
+### 🎨 UI & Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+### ☁️ Tools & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🏋️ Crossthenics Fitness
+
+A modern fitness website redesigned with a glassmorphism-focused interface.
+
+**Stack:**
+`Next.js` · `TypeScript` · `Tailwind CSS`
+
+<a href="https://github.com/Anish-Pokharel7/crossthenics-Fitness">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🎯 Skill Hunt
+
+A system designed around businesses, consumers and administrative management.
+
+**Stack:**
+`TypeScript` · `Next.js` · `API Integration`
+
+<a href="https://github.com/Anish-Pokharel7/skill-hunt">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💼 Permanent Portfolio
+
+My personal portfolio project focused on presenting my work, skills and development journey.
+
+**Stack:**
+`Next.js` · `TypeScript`
+
+<a href="https://github.com/Anish-Pokharel7/pernament-cv">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🍽️ Monk & Punk Chyafe
+
+A modern website project created for Monk and Punk Chyafe.
+
+**Stack:**
+`TypeScript` · `Vite` · `Supabase`
+
+<a href="https://github.com/Anish-Pokharel7/M-P">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🏍️ Young Enfielders
+
+A JavaScript-based web project built around the Young Enfielders concept.
+
+**Stack:**
+`JavaScript`
+
+<a href="https://github.com/Anish-Pokharel7/Young-Enfielders">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🔗 Y.E API
+
+An API-focused project created to support the Young Enfielders ecosystem.
+
+**Stack:**
+`JavaScript` · `API`
+
+<a href="https://github.com/Anish-Pokharel7/Y.E-API">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/output/github-snake.svg" />
-    <img alt="Daily Contribution Snake Animation" src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/output/github-snake-dark.svg" width="100%" />
-  </picture>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anish-Pokharel7&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Pokharel7&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="180"/>
+
 </div>
- 
----
 
-## 🧠 Soft Skills & Developer Values
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  💡  Problem Solver      — I break hard problems down       │
-│  🔁  Consistent Learner  — Daily growth, no days off        │
-│  🤝  Team Player         — Async or in-person, I adapt      │
-│  🎯  Detail Oriented     — Clean code, clean commits        │
-│  📚  Self-Taught         — YouTube → Docs → Real products   │
-│  💬  Clear Communicator  — Dev speak AND plain English      │
-│  🌙  Night Owl           — Best ideas hit at 2 AM           │
-│  🚀  Execution Focused   — Ideas are cheap, shipping wins   │
-└─────────────────────────────────────────────────────────────┘
-```
----
-## ✍️ Dev Quote of the Day
+<br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+
+<img src="https://streak-stats.demolab.com?user=Anish-Pokharel7&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anish-Pokharel7&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish-Pokharel7&theme=github-compact&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🎯 My Developer Journey
+
+```text
+Learning
+   │
+   ▼
+Experimenting
+   │
+   ▼
+Building
+   │
+   ▼
+Breaking Things 💀
+   │
+   ▼
+Debugging 🔧
+   │
+   ▼
+Improving 🚀
+   │
+   ▼
+Building Better Software
+```
+
+> **"The best way to learn development is to build something you don't know how to build yet."**
+
+---
+
+# 🌱 Currently Learning
+
+* ⚡ Advanced **Next.js**
+* 🧩 Better **React architecture**
+* 🔌 Scalable **API integration**
+* 🗄️ Database & backend architecture
+* 🎨 Advanced **UI/UX**
+* 🚀 Web performance & optimization
+* 🤖 AI-assisted development workflows
+
+---
+
+# 💡 Developer Philosophy
+
+<div align="center">
+
+### `Write code.`
+
+### `Break code.`
+
+### `Understand why.`
+
+### `Fix it.`
+
+### `Make it better.`
+
+### `Repeat.` 🔥
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Anish-Pokharel7">
+<img src="https://img.shields.io/badge/GitHub-Anish--Pokharel7-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/anish_fuckin.brats">
+<img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 Open to collaborations, ideas and interesting projects.
+
+**If you're building something cool, let's build it together. 🚀**
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💬 My Dev Philosophy
+<img src="https://komarev.com/ghpvc/?username=Anish-Pokharel7&label=Profile%20Views&color=58A6FF&style=flat" />
 
- *"Driven by consistency, curiosity, and continuous practice."*
+<br/><br/>
 
- *"The best time to start was yesterday. The second best time is right now."*
+**Thanks for visiting my profile! ⭐**
 
- *"Don't just consume tutorials — build, break, and learn."*
-
----
-
-⭐ **If my work inspires you, drop a star on my repos!** ⭐
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" width="100%"/>
+`Code. Debug. Improve. Repeat. 🔥`
 
 </div>
