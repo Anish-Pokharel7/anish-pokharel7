@@ -1,0 +1,49 @@
+name: GitHub Snake Game
+
+permissions:
+  contents: write
+
+on:
+  # Run twice daily (midnight & noon UTC) to keep daily contribution snake fresh
+  schedule:
+    - cron: "0 0,12 * * *"
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+  # Refresh immediately on any push to main branch so daily commits are tracked instantly
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history so contribution graph is accurate
+          fetch-depth: 0
+
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk@v3
+        with:
+          # Must match your GitHub username exactly (case-sensitive)
+          github_user_name: Anish-Pokharel7
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          keep_files: true
+          user_name: github-actions[bot]
+          user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_message: "chore: update daily contribution snake animation [skip ci]"
