@@ -106,15 +106,14 @@ const anish: Developer = {
 
 ## 📊 GitHub Stats
 
-<!-- General Stats — self-hosted SVG, auto-updated twice daily by metrics workflow -->
-<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.general.svg" width="100%" alt="GitHub General Stats"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Anish-Pokharel7&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" width="100%" alt="GitHub General Stats"/>
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.streak.svg" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Anish-Pokharel7&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -122,7 +121,7 @@ const anish: Developer = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish-Pokharel7&bg_color=0d1117&color=a855f7&line=e040fb&point=ffffff&area=true&hide_border=false&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/a855f7/Anish-Pokharel7" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -158,8 +157,7 @@ const anish: Developer = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <!-- Auto-tracked achievement badges — updated twice daily by metrics workflow -->
-  <img src="./metrics.achievements.svg" width="100%" alt="GitHub Achievements" width="100%" alt="GitHub Achievements"/>
+  <img src="https://github-trophies.vercel.app/?username=Anish-Pokharel7" width="100%" alt="GitHub Achievements"/>
 </div>
 
 ---
