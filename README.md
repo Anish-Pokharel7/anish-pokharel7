@@ -95,31 +95,43 @@ Exploring better development workflows, architecture, performance and emerging t
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,html,css,python,java,go,rust" />
 </p>
 
 ### ⚛️ Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite,redux,webpack,sass,styledcomponents" />
 </p>
 
 ### 🔧 Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,supabase,postgres,mysql,redis,graphql,nginx" />
 </p>
 
 ### 🎨 UI & Design
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects" />
 </p>
 
 ### ☁️ Tools & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,vscode,docker,kubernetes,aws,linux,bash" />
+</p>
+
+### 🧪 Testing & Quality
+
+<p>
+<img src="https://skillicons.dev/icons?i=jest,vitest,cypress,playwright,eslint,prettier,husky" />
+</p>
+
+### 📦 Package Managers & CI/CD
+
+<p>
+<img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,githubactions,gitlabci,bitbucket" />
 </p>
 
 ---
@@ -128,7 +140,7 @@ Exploring better development workflows, architecture, performance and emerging t
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.general.svg" height="250"/>
+<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.general.svg" height="650"/>
 
 </div>
 
