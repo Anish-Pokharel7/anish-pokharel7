@@ -128,7 +128,7 @@ Exploring better development workflows, architecture, performance and emerging t
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.general.svg" height="180"/>
+<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.general.svg" height="250"/>
 
 </div>
 
@@ -136,27 +136,7 @@ Exploring better development workflows, architecture, performance and emerging t
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.streak.svg" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.achievements.svg" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.habits.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Anish-Pokharel7/Anish-Pokharel7/main/metrics.streak.svg" height="250"/>
 
 </div>
 
