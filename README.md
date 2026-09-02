@@ -17,10 +17,9 @@
 <a href="https://github.com/Anish-Pokharel7?tab=stars">
 <img src="https://img.shields.io/github/stars/Anish-Pokharel7?style=for-the-badge&logo=github&logoColor=white&color=yellow" />
 </a>
-<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Anish-Pokharel7&label=Profile%20Views&color=58A6FF&style=flat" />
-</div>
+
 
 ---
 
