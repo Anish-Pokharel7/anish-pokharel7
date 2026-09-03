@@ -1,10 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Anish Pokharel
-
-### `Full-Stack Developer` · `Next.js Specialist` · `Tech Enthusiast`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+clean+%26+modern+web+experiences;Turning+ideas+into+real+products;Learning.+Building.+Improving.;Code.+Debug.+Improve.+Repeat.%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,100:0099FF&height=200&section=header&text=ANISH%20POKHAREL&fontSize=48&fontColor=BB86FC&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Next.js%20Specialist%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=50&descSize=16" alt="header" />
 
 <br/>
 
@@ -18,7 +14,7 @@
   <img src="https://img.shields.io/github/stars/Anish-Pokharel7?style=for-the-badge&logo=github&logoColor=white&color=FFD700" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Anish-Pokharel7&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
 
