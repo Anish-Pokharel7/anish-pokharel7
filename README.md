@@ -74,27 +74,27 @@ I believe good software isn't only about writing code — it's about creating so
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=ts,js,cpp,html,css" />
 </p>
 
 ### ⚛️ Frontend
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite" />
 </p>
 
 ### 🔧 Backend & Database
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,supabase" />
 </p>
 
 ### 🎨 UI & Design
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ### ☁️ Tools & Deployment
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,vscode" />
 </p>
 
