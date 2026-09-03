@@ -29,21 +29,18 @@
 ## 🧑‍💻 About Me
 
 ```typescript
-const anish = {
-  name: "Anish Pokharel",
-  role: "Full-Stack Developer",
-  focus: [
-    "Web Development",
-    "Modern UI/UX",
-    "API Integration",
-    "Full-Stack Applications"
-  ],
-  currentlyBuilding: [
-    "Production-ready web applications",
-    "Modern Next.js interfaces",
-    "API-driven systems"
-  ],
-  philosophy: "Code. Debug. Improve. Repeat. 🔥"
+const Anish: Developer = {
+  name:        "ANISH POKHAREL",
+  role:        "MERN Stack Web Developer",
+  location:    "Dharan-16, Sunsari, Nepal 🇳🇵",
+  email:       "pokharelanish512@gmail.com",
+  languages:   ["JavaScript", "TypeScript"],
+  frameworks:  ["React", "Next.js", "Node.js", "Express"],
+  databases:   ["MongoDB"],
+  cloud:       ["AWS", "Cloudflare", "Vercel"],
+  philosophy:  "Clean code. Real solutions. Endless curiosity.",
+  currentGoal: "Build impactful products & land a top dev role",
+  funFact:     "I debug with coffee ☕ and stubbornness 💪",
 };
 ```
 
