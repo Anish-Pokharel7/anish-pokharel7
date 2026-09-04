@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=600&multiline=true&lines=writing+the+code%2C+one+code+at+a+time" alt="typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=600&multiline=true&lines=writing+the+code%2C+one+code+at+a+time+🚀" alt="typing animation" />
 
 <br/>
 
