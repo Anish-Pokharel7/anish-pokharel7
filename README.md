@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=writing+the+code%2C+one+code+at+a+time+%F0%9F%9A%80" alt="typing animation" />
+
+<br/>
+
 <a href="https://github.com/Anish-Pokharel7">
   <img src="https://img.shields.io/github/followers/Anish-Pokharel7?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" />
 </a>
