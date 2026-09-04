@@ -205,3 +205,11 @@ Building Better Software
 `Code. Debug. Improve. Repeat. 🔥`
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:8A2BE2&height=120&section=footer&fontSize=20&fontColor=FFFFFF&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&desc=Let's%20build%20something%20awesome%20together%20%F0%9F%9A%80&descAlignY=70&descSize=14" alt="footer" />
+
+</div>
